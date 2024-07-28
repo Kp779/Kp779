@@ -10,10 +10,10 @@
     <em>
       Hello, I am Kompal Poorkar. I am a <b>Frontend Developer.</b><br>
        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I aspire to enter the world of Full Stack Development</b>&nbsp;
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
       and learn all about Open Source Contributions.
     </em>   <br>
-            Thought : "Good things take time!”</i></b>
+            Thought: "Good things take time!”</i></b>
     <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> 
   </p>
 </div>
